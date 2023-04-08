@@ -15,9 +15,9 @@ To use the code in this repository, you need to have the following software inst
 Twitter Data
 ![image](https://user-images.githubusercontent.com/69851775/230714175-dda7ea1b-1657-49e9-bcaa-2ad55b4c87fd.png)
 
-## Test Results on BiLSTM Model
+## Test Results on BiLSTM & CNN Model
 ![image](https://user-images.githubusercontent.com/69851775/230714134-6b05004f-8ba7-4537-bbeb-31ba2b0c7fd4.png)
 
 
-## Train Results on Federated Learning-BiLSTM Setup
+## Train Results on Federated Learning-BiLSTM & CNN Setup
 ![image](https://user-images.githubusercontent.com/69851775/230714122-c14faadf-2724-4b87-8b08-c8bca7b3a5b9.png)
